@@ -1,22 +1,25 @@
 {
   "stickers" : [
     {
+      "filename" : "Asset 1.sticker"
+    },
+    {
       "filename" : "Asset 2.sticker"
     },
     {
-      "filename" : "Asset 2@2x.sticker"
+      "filename" : "Asset 3.sticker"
     },
     {
-      "filename" : "Asset 2@3x.sticker"
+      "filename" : "Asset 4.sticker"
     },
     {
-      "filename" : "Asset 8@3x.sticker"
+      "filename" : "Asset 5.sticker"
     },
     {
-      "filename" : "Asset 8@2x.sticker"
+      "filename" : "Asset 6.sticker"
     },
     {
-      "filename" : "Asset 8.sticker"
+      "filename" : "Asset 7.sticker"
     }
   ],
   "info" : {

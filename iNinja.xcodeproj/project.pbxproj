@@ -106,10 +106,12 @@
 				TargetAttributes = {
 					2AD9038F1E34E8A500BF3C01 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 3NL9BUS2QV;
 						ProvisioningStyle = Automatic;
 					};
 					2AD903931E34E8A500BF3C01 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 3NL9BUS2QV;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -255,10 +257,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 3NL9BUS2QV;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
-				PRODUCT_BUNDLE_IDENTIFIER = com.David.Codamo.iNinja.StickerPackExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.iNinja.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -269,10 +271,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 3NL9BUS2QV;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
-				PRODUCT_BUNDLE_IDENTIFIER = com.David.Codamo.iNinja.StickerPackExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.iNinja.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -282,10 +284,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 3NL9BUS2QV;
 				INFOPLIST_FILE = iNinja/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
-				PRODUCT_BUNDLE_IDENTIFIER = com.David.Codamo.iNinja;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.iNinja;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -294,10 +296,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 3NL9BUS2QV;
 				INFOPLIST_FILE = iNinja/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
-				PRODUCT_BUNDLE_IDENTIFIER = com.David.Codamo.iNinja;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.iNinja;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

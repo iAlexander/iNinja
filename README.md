@@ -16,7 +16,7 @@ iOS stickers pack ```iNinja``` is the great bundle of stickers for iMessage, tha
 
 ##<a name="screenshots"> Screenshots: </a>
 
-Will be here soon...
+Screenshots will be here soon...
 
 ##<a name="license"> License: </a>
 

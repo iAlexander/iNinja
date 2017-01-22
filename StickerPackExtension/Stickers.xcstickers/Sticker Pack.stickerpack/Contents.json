@@ -1,35 +1,6 @@
 {
   "stickers" : [
-    {
-      "filename" : "Asset 1.sticker"
-    },
-    {
-      "filename" : "Asset 2.sticker"
-    },
-    {
-      "filename" : "Asset 3.sticker"
-    },
-    {
-      "filename" : "Asset 4.sticker"
-    },
-    {
-      "filename" : "Asset 5.sticker"
-    },
-    {
-      "filename" : "Asset 6.sticker"
-    },
-    {
-      "filename" : "Asset 7.sticker"
-    },
-    {
-      "filename" : "Asset 8.sticker"
-    },
-    {
-      "filename" : "Asset 9.sticker"
-    },
-    {
-      "filename" : "Asset 10.sticker"
-    }
+
   ],
   "info" : {
     "version" : 1,

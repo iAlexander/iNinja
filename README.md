@@ -12,7 +12,7 @@
 
 ##<a name="description"> Description: </a>
 
-iOS stickers pack ```iNinja``` is the great bundle of stickers for iMessage, that includes 99 perfectly made pictures...
+iOS stickers pack ```iNinja``` is the great bundle of stickers for iMessage, that includes 99 perfectly made pictures with cartoon ninja...
 
 ##<a name="screenshots"> Screenshots: </a>
 

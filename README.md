@@ -21,7 +21,7 @@ Screenshots will be here soon...
 ##<a name="license"> License: </a>
 
 ```iNinja``` is released under the MIT license. Check the ```LICENSE``` file for details.  
-Copyright © 2017 David Codamo & Alexander Iashchuk.
+Copyright © 2017 David Codamo  & Alexander Iashchuk, <a href="https://iashchuk.com">iashchuk.com</a>.
 
 ##<a name="contact"> Contact: </a>
 

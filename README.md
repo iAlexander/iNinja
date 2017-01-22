@@ -20,8 +20,8 @@ Will be here soon...
 
 ##<a name="license"> License: </a>
 
-```Valentine's Day``` is released under the MIT license. Check the ```LICENSE``` file for details.  
-Copyright © 2017 Alexander Iashchuk, <a href="https://iashchuk.com">iashchuk.com</a>.David Codamo
+```iNinja``` is released under the MIT license. Check the ```LICENSE``` file for details.  
+Copyright © 2017 David Codamo & Alexander Iashchuk.
 
 ##<a name="contact"> Contact: </a>
 

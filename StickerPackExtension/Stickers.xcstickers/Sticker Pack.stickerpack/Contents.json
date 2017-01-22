@@ -1,6 +1,23 @@
 {
   "stickers" : [
-
+    {
+      "filename" : "Asset 2.sticker"
+    },
+    {
+      "filename" : "Asset 2@2x.sticker"
+    },
+    {
+      "filename" : "Asset 2@3x.sticker"
+    },
+    {
+      "filename" : "Asset 8@3x.sticker"
+    },
+    {
+      "filename" : "Asset 8@2x.sticker"
+    },
+    {
+      "filename" : "Asset 8.sticker"
+    }
   ],
   "info" : {
     "version" : 1,

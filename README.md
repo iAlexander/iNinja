@@ -4,6 +4,8 @@
 [![Version](https://img.shields.io/badge/App version-1.0-blue.svg?style=flat")](#)
 [![AppStore](https://img.shields.io/badge/App Store-$1.99-brightgreen.svg?style=flat")](#)
 
+[![My Ninja - bundle of stickers for iMessage chats](https://raw.githubusercontent.com/iAlexander/iNinja/master/Header.jpg)](#)
+
 ## My Ninja - bundle of stickers for iMessage chats, available on <a href="#">App Store</a>
 1. [Description](#description)
 2. [Screenshots](#screenshots)
@@ -18,7 +20,7 @@ This pack includes over 100 ninja stickers featuring original artwork.
 
 ##<a name="screenshots"> Screenshots: </a>
 
-Screenshots will be here soon...
+[![My Ninja - bundle of stickers for iMessage chats](https://raw.githubusercontent.com/iAlexander/iNinja/master/Screenshots.jpg)](#)
 
 ##<a name="license"> License: </a>
 

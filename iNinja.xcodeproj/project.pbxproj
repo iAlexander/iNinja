@@ -106,12 +106,12 @@
 				TargetAttributes = {
 					2AD9038F1E34E8A500BF3C01 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 3NL9BUS2QV;
+						DevelopmentTeam = 575U9G6ZP9;
 						ProvisioningStyle = Automatic;
 					};
 					2AD903931E34E8A500BF3C01 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 3NL9BUS2QV;
+						DevelopmentTeam = 575U9G6ZP9;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -257,10 +257,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 3NL9BUS2QV;
+				DEVELOPMENT_TEAM = 575U9G6ZP9;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.iNinja.StickerPackExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kyivapp.iNinja.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -271,10 +271,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 3NL9BUS2QV;
+				DEVELOPMENT_TEAM = 575U9G6ZP9;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.iNinja.StickerPackExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kyivapp.iNinja.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -284,10 +284,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = 3NL9BUS2QV;
+				DEVELOPMENT_TEAM = 575U9G6ZP9;
 				INFOPLIST_FILE = iNinja/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.iNinja;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kyivapp.iNinja;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -296,10 +296,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = 3NL9BUS2QV;
+				DEVELOPMENT_TEAM = 575U9G6ZP9;
 				INFOPLIST_FILE = iNinja/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.iNinja;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kyivapp.iNinja;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

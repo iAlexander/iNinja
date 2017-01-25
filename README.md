@@ -23,8 +23,7 @@ This pack includes over 100 ninja stickers featuring original artwork.
 [![My Ninja - bundle of stickers for iMessage chats](https://raw.githubusercontent.com/iAlexander/iNinja/master/Screenshots.jpg)](#)
 
 ##<a name="license"> License: </a>
-
-```My Ninja``` is released under the MIT license. Check the ```LICENSE``` file for details.  
+ 
 Copyright © 2017 David Codamo  & Alexander Iashchuk, <a href="https://iashchuk.com">iashchuk.com</a>.
 
 ##<a name="contact"> Contact: </a>

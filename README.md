@@ -28,6 +28,4 @@ Copyright © 2017 David Codamo  & Alexander Iashchuk, <a href="https://iashchuk.
 
 ##<a name="contact"> Contact: </a>
 
-You can read, follow or drop me a line on my personal Twitter account - [@iAlexander13](https://twitter.com/iAlexander13).  
-If you find any issues on the project, you can open a ticket.  
-Pull requests are also welcome!
+You can read, follow or drop me a line on my personal Twitter account - [@iAlexander13](https://twitter.com/iAlexander13).

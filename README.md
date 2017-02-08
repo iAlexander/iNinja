@@ -1,8 +1,8 @@
-[![Language](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat")](#)
-[![Platform](https://img.shields.io/badge/Platform-iOS 10.0 | iMessage-lightgray.svg?style=flat")](#)
-[![Devices](https://img.shields.io/badge/Devices-iPhone | iPad-DAA522.svg?style=flat")](#)
-[![Version](https://img.shields.io/badge/App version-1.0-blue.svg?style=flat")](#)
-[![AppStore](https://img.shields.io/badge/App Store-$1.99-brightgreen.svg?style=flat")](http://ialexander.me/2kHIRx6)
+[![Language](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat)](#)
+[![Platform](https://img.shields.io/badge/Platform-iOS 10.0 | iMessage-lightgray.svg?style=flat)](#)
+[![Devices](https://img.shields.io/badge/Devices-iPhone | iPad-DAA522.svg?style=flat)](#)
+[![Version](https://img.shields.io/badge/App version-1.0-blue.svg?style=flat)](#)
+[![AppStore](https://img.shields.io/badge/App Store-$1.99-brightgreen.svg?style=flat)](http://ialexander.me/2kHIRx6)
 
 [![My Ninja - bundle of stickers for iMessage chats](https://raw.githubusercontent.com/iAlexander/iNinja/master/Header.jpg)](http://ialexander.me/2kHIRx6)
 

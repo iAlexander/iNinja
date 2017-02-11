@@ -24,7 +24,7 @@ This pack includes over 100 ninja stickers featuring original artwork.
 
 ##<a name="license">License:</a>
  
-Copyright © 2017 David Codamo  & Alexander Iashchuk, <a href="https://iashchuk.com">iashchuk.com</a>.
+Copyright © 2017 <a href="https://emojininjas.com">David Codamo</a> & <a href="https://iashchuk.com">Alexander Iashchuk</a>.
 
 ##<a name="contact">Contact:</a>
 
